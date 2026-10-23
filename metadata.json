@@ -1,0 +1,6 @@
+{
+  "name": "BazaarReels - Modern Buy & Sell Marketplace + Short Video Platform",
+  "description": "Hyperlocal marketplace combining classifieds with 9:16 short video reels, sound check walkarounds, real-time chat with offer bargaining, Google Maps hyperlocal deal explorer, and Gemini Maps Grounding in Rewa.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
